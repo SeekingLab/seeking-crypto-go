@@ -5,9 +5,9 @@ Privacy-enhancing technology cryptography library implemented in Go.
 
 This library will contain the following cryptographic algorithms：
 
--Additive homomorphic encryption [paillier](https://github.com/OpenMPC-Lab/OpenCrypto/tree/main/paillier)
+-Additive homomorphic encryption [paillier](https://github.com/SeekingLab/seeking-crypto-go/tree/main/paillier)
 
--Multiplicative homomorphic encryption [elgamal](https://github.com/OpenMPC-Lab/OpenCrypto/tree/main/elgamal)
+-Multiplicative homomorphic encryption [elgamal](https://github.com/SeekingLab/seeking-crypto-go/tree/main/elgamal)
 
 -Elliptic Curve Cryptographic Algorithm [ecc]()
 
