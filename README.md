@@ -1,5 +1,5 @@
 # OpenCrypto
-[Chinese](https://github.com/OpenMPC-Lab/OpenCrypto/blob/main/README-CH.md)
+[Chinese](https://github.com/SeekingLab/seeking-crypto-go/blob/main/README-CH.md))
 
 Privacy-enhancing technology cryptography library implemented in Go.
 
